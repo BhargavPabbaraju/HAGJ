@@ -1,0 +1,13 @@
+=Make Player
+-Make a tileset for levels
+-Make player Animations
+-Make enemies
+-Make some levels
+-Make tile based movement for player
+-Make enemies move towards player every time the player makes a move
+-add attacking
+-add hp to player and enemies
+-make more levels and add level transitions
+-add pickups for healing items and weapons and consumables
+-add main menus and pause menu
+-add music and sfx
